@@ -10,8 +10,10 @@
 - среднюю скорость в MB/s и Mbit/s.
 
 ```console
-$ slowstart https://upload.wikimedia.org/wikipedia/commons/3/3f/Fronalpstock_big.jpg
+uv slowstart https://upload.wikimedia.org/wikipedia/commons/3/3f/Fronalpstock_big.jpg
 ```
+
+![demo](docs/demo.gif)
 
 ## Откуда название
 
